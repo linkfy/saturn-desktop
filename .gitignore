@@ -1,0 +1,61 @@
+# -------------------------------------------------
+# Python
+# -------------------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python packaging / build
+build/
+dist/
+*.egg-info/
+
+# Test / coverage
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+
+# -------------------------------------------------
+# Editors & IDEs
+# -------------------------------------------------
+
+# VS Code
+.vscode/
+.history/
+
+# PyCharm / IntelliJ
+.idea/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Vim
+*.swp
+*.swo
+*~
+.Session.vim
+
+# Emacs
+*#
+.#*
+
+# -------------------------------------------------
+# OS files
+# -------------------------------------------------
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
